@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:patient xmlns:tns="http://www.picasso.com/Patient"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.picasso.com/Patient Patient.xsd " id="1">
+
+	<tns:name>picasso</tns:name>
+	<tns:age>24</tns:age>
+	<tns:dob>2001-01-01</tns:dob>
+	<tns:email>picasso@picasso.com</tns:email>
+	<tns:gender>M</tns:gender>
+	<tns:phone>0123456789</tns:phone>
+	<tns:payment>
+		<tns:insurance>
+			<tns:provider>Bajaj Finance</tns:provider>
+			<tns:limit>959</tns:limit>
+		</tns:insurance>
+	</tns:payment>
+</tns:patient>
